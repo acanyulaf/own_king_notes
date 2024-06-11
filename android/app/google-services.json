@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449561753785",
+    "project_id": "los-pollos-kings",
+    "storage_bucket": "los-pollos-kings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449561753785:android:cba443c7a15de454074368",
+        "android_client_info": {
+          "package_name": "com.example.own_king_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxhp-pR1Sil3iXUxpMEBMqXA2JVaR9NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
